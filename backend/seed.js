@@ -40,8 +40,8 @@ const seed = async () => {
 
   const admin = await User.create({
     name: 'Admin User',
-    email: 'admin@gymtracker.com',
-    password: 'admin123',
+    email: '2019ahmedsiddiki@gmail.com',
+    password: 'sabbir123',
     role: 'admin',
   });
 
